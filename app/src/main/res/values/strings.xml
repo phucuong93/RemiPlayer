@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RemiPlayer</string>
+    <string name="loading">Loading…</string>
+    <string name="my_music_screen_place_holder_search">Tìm kiếm bài hát, danh sách phát và nghe nhạc</string>
+    <string name="my_music_screen_favorite_category_label">Yêu thích</string>
+    <string name="my_music_screen_playlist_category_label">Danh sách</string>
+    <string name="my_music_screen_recent_category_label">Gần đây</string>
+    <string name="my_music_screen_songs_list_type">Bài hát</string>
+    <string name="my_music_screen_artist_list_type">Ca sĩ</string>
+    <string name="my_music_screen_album_list_type">Album</string>
+    <string name="my_music_screen_folder_list_type">Thư mục</string>
+</resources>
